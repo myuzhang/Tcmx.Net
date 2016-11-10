@@ -1,0 +1,3 @@
+Category:Regression
+Release:R5.1
+Area Path:yourTeamProject\Service Provisioning
